@@ -11,11 +11,11 @@ For a live demo of the project have a look at http://react-trello-board.web-pal.
 Firstly make sure that you have [Node](https://nodejs.org/en/download/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)  installed.
 Next clone this repo https://github.com/web-pal/react-trello-board.git. You can do this by going into your shell of choice and entering
 ```
-git clone https://github.com/web-pal/react-trello-board.git
+git clone https://github.com/bluesven869/TrelloClone.git
 ```
 then change into that folder
 ```
-cd react-trello-board
+cd TrelloClone
 ```
 install the necessary packages locally
 ```
